@@ -3,6 +3,13 @@ body {
 	color: #ffffff;
 }
 
+.logo {
+	display: flex;
+	width: 15%;
+	height: 15%;
+	margin-left: 20px;
+}
+
 .movie-app > .row {
 	overflow-x: auto;
 	flex-wrap: nowrap;
